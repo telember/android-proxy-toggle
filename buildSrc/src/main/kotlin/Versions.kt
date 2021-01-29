@@ -22,7 +22,7 @@ object Versions {
 
     const val androidx_hilt: String = "1.0.0-alpha01"
 
-    const val com_android_tools_build_gradle: String = "4.2.0-alpha02"
+    const val com_android_tools_build_gradle: String = "4.2.0-beta03"
 
     const val androidx_test_ext_junit: String = "1.1.1"
 
@@ -54,18 +54,13 @@ object Versions {
 
     const val material: String = "1.1.0"
 
-    const val aapt2: String = "4.2.0-alpha02-6567757"
+    const val aapt2: String = "4.2.0-beta03-6840111"
 
     const val mockk: String = "1.10.0"
 
     const val truth: String = "1.0.1"
 
-    /**
-     * Current version: "6.5-rc-1"
-     * See issue 19: How to update Gradle itself?
-     * https://github.com/jmfayard/buildSrcVersions/issues/19
-     */
-    const val gradleLatestVersion: String = "6.5.1"
+    const val gradleLatestVersion: String = "6.7.1"
 }
 
 /**
